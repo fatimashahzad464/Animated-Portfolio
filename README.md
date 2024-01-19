@@ -1,1 +1,1 @@
-# Animated-Potfolio
+# Animated-Portfolio
